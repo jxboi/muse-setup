@@ -1,0 +1,5 @@
+name: "design_hill_climb"
+title: "Design Hill Climb"
+description: "Build a design page from a reference screenshot and climb its rubric score until every category is at least 8.5, with Codex implementing and Opus scoring each iteration."
+category: "Work and knowledge"
+include_in_prompt: true

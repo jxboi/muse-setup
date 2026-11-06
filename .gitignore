@@ -1,0 +1,15 @@
+# Personal and generated files — never commit these
+MEMORY.md
+USER.md
+*.log
+node_modules/
+.env
+.env.*
+credentials
+*secret*
+*.pem
+*.key
+
+# Local-only paths
+.claude/
+.agents/
